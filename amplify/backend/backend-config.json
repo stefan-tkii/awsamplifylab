@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "awsamplifylabca746088": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
